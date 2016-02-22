@@ -6,11 +6,11 @@
 0.2.0
 
 ##Usage##
-$('span').linkIt({
-href: 'http://www.mbofmarin.com',
-text: 'Click Me',
-target: '_blank', 
-});
+    $('span').linkIt({
+    href: 'http://www.mbofmarin.com',
+    text: 'Click Me',
+    target: '_blank', 
+    });
 
 ##Vendors##
 jQuery - [http://jquery.com](http://jquery.com)

@@ -7,7 +7,7 @@
 
 ##Usage##
 $('span').linkIt({
-href: 'http://www.mbofmarin.com',
+href: '#',
 text: 'Click Me',
 target: '_blank', 
 });
